@@ -12,7 +12,7 @@
 
 ## PS2 pin table:
 
-![image]https://static-cdn.imageservice.cloud/737533/a-essentials-tutorial-personal-computer-components-ports-and-cables.jpg)
+![image](https://static-cdn.imageservice.cloud/737533/a-essentials-tutorial-personal-computer-components-ports-and-cables.jpg)
 
 <hr>
 
