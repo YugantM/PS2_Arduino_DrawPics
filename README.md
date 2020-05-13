@@ -12,8 +12,7 @@
 
 ## PS2 pin table:
 
-
-![image](https://wiki.valleymediaworks.org/lib/exe/fetch.php?cache=&w=434&h=200&tok=2eeb15&media=gear:ps2-pinout.jpg)
+![image](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwigeg.dogan.tron.para.rele.vira.mohammedshrine.org%2Fps2-male-connector-wire-diagram.html&psig=AOvVaw3FV732B39uBRAqisRPNa86&ust=1589487200942000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC0xbfTsekCFQAAAAAdAAAAABAD)
 
 <hr>
 
