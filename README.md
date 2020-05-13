@@ -10,7 +10,9 @@
 ### * 1.5 meter wire or 15 jumper cables 
 <hr>
 
-## PS2 pin table:
+## Project description:
+
+###The code for this project uses the PS2 library file called “PS2Mouse.h” which has all the necessary routines for accessing a PS2 mouse. There are two functions which the user can directly make use in their code and are namely “mouse.initialize()” and “mouse.report(data)”.###
 
 ![image](https://static-cdn.imageservice.cloud/737533/a-essentials-tutorial-personal-computer-components-ports-and-cables.jpg)
 
