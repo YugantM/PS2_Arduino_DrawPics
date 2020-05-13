@@ -8,3 +8,9 @@
 ### * OLED display (I2C interface 128 x 64)
 ### * USB cable
 ### * 1.5 meter wire or 15 jumper cables 
+
+# Schematic diagram:
+<img src="schematic.jpeg" alt="step1" style="float: left; margin-right: 10px;" />
+
+# Bread board view:
+<img src="breadboard.jpeg" alt="step1" style="float: left; margin-right: 10px;" />
