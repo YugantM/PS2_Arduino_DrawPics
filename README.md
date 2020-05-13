@@ -1,7 +1,5 @@
 # Drawing Pictures (PS2 + Arduino)
 
-<hr>
-
 ## This is the list of components required for the given project:
 
 ### * Arduino UNO
@@ -23,6 +21,7 @@
 
 # Schematic diagram:
 <img src="schematic.jpeg" alt="step1" style="float: left; margin-right: 10px;" />
+<hr>
 
 # Bread board view:
 <img src="breadboard.jpeg" alt="step1" style="float: left; margin-right: 10px;" />
