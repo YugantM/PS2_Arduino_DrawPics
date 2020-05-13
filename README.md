@@ -12,7 +12,7 @@
 
 ## PS2 pin table:
 
-![image](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwigeg.dogan.tron.para.rele.vira.mohammedshrine.org%2Fps2-male-connector-wire-diagram.html&psig=AOvVaw3FV732B39uBRAqisRPNa86&ust=1589487200942000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC0xbfTsekCFQAAAAAdAAAAABAD)
+![image]https://static-cdn.imageservice.cloud/737533/a-essentials-tutorial-personal-computer-components-ports-and-cables.jpg)
 
 <hr>
 
